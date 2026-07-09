@@ -34,5 +34,5 @@
 
 ## 📫 Contacto
 
-- LinkedIn
-- Correo electrónico
+- LinkedIn: https://www.linkedin.com/in/luis-vasquez-m/
+- Correo electrónico: luisalexis.vasquezm@gmail.com
