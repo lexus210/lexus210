@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola 👋 Soy Luis Alexis Vasquez Miranda
 
-<!--
-**lexus210/lexus210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egresado de Ingeniería de Sistemas e Informática.
 
-Here are some ideas to get you started:
+💼 Actualmente trabajo en el Banco de Crédito del Perú (BCP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de interés
+
+- Desarrollo Backend
+- Data Analytics
+- Inteligencia Artificial
+- Automatización
+- Ciberseguridad
+
+## 💻 Tecnologías
+
+- Python
+- PHP
+- Laravel
+- SQL
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 🌱 Actualmente aprendiendo
+
+- Spring Boot
+- Machine Learning
+- AWS
+- CCNA 3
+
+## 📫 Contacto
+
+- LinkedIn
+- Correo electrónico
